@@ -9,6 +9,9 @@ easy and complete rule, hence endless combinations, traps, twists and turns, str
 reversals of the situation and a fateful or Machiavellian blow make it a real game of strategy.
 Specifications
 
+![bull](https://user-images.githubusercontent.com/76394432/138531190-730ee5fd-8e60-479b-9ea2-4a034a67ca76.PNG)
+
+
 -> Course and goal of the game:
 
 Each player has 24 game pieces of the same color: 1 king, 8 queens, 15 pawns. Whites
