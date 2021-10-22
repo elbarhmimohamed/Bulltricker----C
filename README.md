@@ -1,4 +1,5 @@
 "# Bulltricker----C" 
+
 -->Introduction 
 
 Le jeu Bulltricker est une Alliance de 2 mots anglais : BULL symbolisant la puissance, TRICK signifiant 
