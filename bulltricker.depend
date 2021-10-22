@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1580282285 source:c:\users\meriem\desktop\bulltricker\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<sdl2/SDL_mixer.h>
+	"bulltricker.h"
+
+1579736367 c:\users\meriem\desktop\bulltricker\jeux.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+
+1580254360 c:\users\meriem\desktop\bulltricker\bulltricker.h
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+
+1580254284 source:c:\users\meriem\desktop\bulltricker\bulltricker.c
+	<stdio.h>
+	<stdlib.h>
+	"bulltricker.h"
+
