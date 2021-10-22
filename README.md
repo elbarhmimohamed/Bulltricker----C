@@ -1,18 +1,18 @@
 "# Bulltricker----C" 
 
--->Introduction 
+-> Introduction
 
-Le jeu Bulltricker est une Alliance de 2 mots anglais : BULL symbolisant la puissance, TRICK signifiant 
-la ruse. Il se joue entre deux personnes (pas de jeu contre l’ordinateur).
-L'inspiration des règles de base des échecs, des dames et du go lui a donné toute l'originalité de sa 
-règle facile et complète, d'où combinaisons à l'infini, pièges, rebondissements, stratagèmes, 
-renversements de situation et coup fatidique ou machiavélique font de lui un vrai jeu de stratégie. 
-Cahier de charge 
+The Bulltricker game is an Alliance of 2 English words: BULL symbolizing power, TRICK meaning
+cunning. It is played between two people (no game against the computer).
+The inspiration of the basic rules of chess, checkers and go gave him all the originality of his
+easy and complete rule, hence endless combinations, traps, twists and turns, stratagems,
+reversals of the situation and a fateful or Machiavellian blow make it a real game of strategy.
+Specifications
 
---> Déroulement et but du jeu :
+-> Course and goal of the game:
 
-Chaque joueur dispose de 24 pièces de jeu de même couleur : 1 roi, 8 dames, 15 pions . Les BLANCS 
-commencent et chaque joueur joue à tour de rôle, une pièce par coup, pion, dame, ou roi .
-Le but du jeu consiste à piéger le Roi de l'adversaire (comme aux échecs), en enfermant ce Roi entre 
-quatre pièces (Pion et/ou Dame) dont au moins une des vôtres. Cet encadrement appelé "Mat" 
-symbolise la fin de la partie en signifiant que "le Roi est mort".
+Each player has 24 game pieces of the same color: 1 king, 8 queens, 15 pawns. Whites
+start and each player takes turns playing, one piece per move, pawn, queen, or king.
+The object of the game is to trap the opponent's King (as in chess), by locking this King between
+four pieces (Pawn and / or Queen) including at least one of your own. This frame called "Mat"
+symbolizes the end of the game by meaning that "the King is dead".
